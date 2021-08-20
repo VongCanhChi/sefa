@@ -67,7 +67,7 @@ def load_generator(model_name):
         raise KeyError(f'Unknown model name `{model_name}`!')
 
     model_config = MODEL_ZOO[model_name].copy()
-    url = model_config.pop('https://drive.google.com/file/d/17PmJ493sdfJrpgEK7hvcncGN-xwwoJrJ/view?usp=sharing')  # URL to download model if needed.
+    url = model_config.pop('url')  # URL to download model if needed.
 
     # Build generator.
     print(f'Building generator for model `{model_name}` ...')
