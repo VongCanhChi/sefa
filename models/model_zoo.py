@@ -302,7 +302,7 @@ MODEL_ZOO = {
     'GNR_checkpoint': dict(
         gan_type='stylegan2',
         resolution=512,
-        url='https://drive.google.com/uc?id=1IMIVke4WDaGayUa7vk_xVw1uqIHikGtC',
+        url='https://drive.google.com/uc?export=download&id=12aDdgeZwdVm-jeJ219UQIuYRdcEmQ-ic',
     ),
 }
 
