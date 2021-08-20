@@ -298,6 +298,12 @@ MODEL_ZOO = {
         resolution=512,
         url='https://mycuhk-my.sharepoint.com/:u:/g/personal/1155082926_link_cuhk_edu_hk/EYSnUsxU8KJFuMHhZm-JLWoB0nHxdlbrLHNZ_Qkoe3b9LA?e=Ycjp5A&download=1',
     ),
+    
+    'stylegan2_chi': dict(
+        gan_type='stylegan2',
+        resolution=512,
+        url='https://drive.google.com/file/d/17PmJ493sdfJrpgEK7hvcncGN-xwwoJrJ/view?usp=sharing',
+    ),
 }
 
 # pylint: enable=line-too-long
