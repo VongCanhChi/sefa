@@ -302,7 +302,7 @@ MODEL_ZOO = {
     'stylegan2_chi': dict(
         gan_type='stylegan2',
         resolution=512,
-        url='https://drive.google.com/file/d/17PmJ493sdfJrpgEK7hvcncGN-xwwoJrJ/view?usp=sharing',
+        url='https://drive.google.com/file/d/1m19J9XEttzdQN2dwvbQSGs-sVTU0E1lV/view?usp=sharing',
     ),
 }
 
