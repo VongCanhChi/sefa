@@ -299,7 +299,7 @@ MODEL_ZOO = {
         url='https://mycuhk-my.sharepoint.com/:u:/g/personal/1155082926_link_cuhk_edu_hk/EYSnUsxU8KJFuMHhZm-JLWoB0nHxdlbrLHNZ_Qkoe3b9LA?e=Ycjp5A&download=1',
     ),
     
-    'stylegan2_chi': dict(
+    'GNR_checkpoint': dict(
         gan_type='stylegan2',
         resolution=512,
         url='https://drive.google.com/uc?id=1IMIVke4WDaGayUa7vk_xVw1uqIHikGtC',
