@@ -260,7 +260,7 @@ MODEL_ZOO = {
         gan_type='stylegan',
         resolution=512,
         #url='https://mycuhk-my.sharepoint.com/:u:/g/personal/1155082926_link_cuhk_edu_hk/EWDWflY6lBpGgX0CGQpd2Z4B5wTEVamTOA9JRYne7zdCvA?e=tOzgYA&download=1',
-        url='https://drive.google.com/uc?export=download&id=1AHeBdoPmQbJdJwAyqqYWJxwePmEpuCqt',
+        url='https://mega.nz/file/o1R0hBiR#3uFFZbMYu3gP9Kkw2EHeIrqAFm7gnQpOjkKHHkiI3CE',
     ),
     'stylegan_animeportrait512': dict(
         gan_type='stylegan',
