@@ -259,7 +259,8 @@ MODEL_ZOO = {
     'stylegan_animeface512': dict(
         gan_type='stylegan',
         resolution=512,
-        url='https://mycuhk-my.sharepoint.com/:u:/g/personal/1155082926_link_cuhk_edu_hk/EWDWflY6lBpGgX0CGQpd2Z4B5wTEVamTOA9JRYne7zdCvA?e=tOzgYA&download=1',
+        #url='https://mycuhk-my.sharepoint.com/:u:/g/personal/1155082926_link_cuhk_edu_hk/EWDWflY6lBpGgX0CGQpd2Z4B5wTEVamTOA9JRYne7zdCvA?e=tOzgYA&download=1',
+        url='https://drive.google.com/uc?export=download&id=1AHeBdoPmQbJdJwAyqqYWJxwePmEpuCqt',
     ),
     'stylegan_animeportrait512': dict(
         gan_type='stylegan',
@@ -276,8 +277,7 @@ MODEL_ZOO = {
     'stylegan2_ffhq1024': dict(
         gan_type='stylegan2',
         resolution=1024,
-        #url='https://mycuhk-my.sharepoint.com/:u:/g/personal/1155082926_link_cuhk_edu_hk/EX0DNWiBvl5FuOQTF4oMPBYBNSalcxTK0AbLwBn9Y3vfgg?e=Q0sZit&download=1',
-        url='https://drive.google.com/uc?export=download&id=1AHeBdoPmQbJdJwAyqqYWJxwePmEpuCqt',
+        url='https://mycuhk-my.sharepoint.com/:u:/g/personal/1155082926_link_cuhk_edu_hk/EX0DNWiBvl5FuOQTF4oMPBYBNSalcxTK0AbLwBn9Y3vfgg?e=Q0sZit&download=1',
     ),
     'stylegan2_church256': dict(
         gan_type='stylegan2',
