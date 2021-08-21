@@ -303,8 +303,9 @@ MODEL_ZOO = {
     'GNR_checkpoint': dict(
         gan_type='stylegan2',
         resolution=512,
-        url='https://mycuhk-my.sharepoint.com/:u:/g/personal/1155082926_link_cuhk_edu_hk/EYSnUsxU8KJFuMHhZm-JLWoB0nHxdlbrLHNZ_Qkoe3b9LA?e=Ycjp5A&download=1',
+        #url='https://mycuhk-my.sharepoint.com/:u:/g/personal/1155082926_link_cuhk_edu_hk/EYSnUsxU8KJFuMHhZm-JLWoB0nHxdlbrLHNZ_Qkoe3b9LA?e=Ycjp5A&download=1',
         #url='https://drive.google.com/uc?export=download&id=1AHeBdoPmQbJdJwAyqqYWJxwePmEpuCqt',
+        url='https://1drv.ms/u/s!ApqAURLeeYP-kn9H4fpdYapZf5TD?e=g02TNE',
     ),
 }
 
