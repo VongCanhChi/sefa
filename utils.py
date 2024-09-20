@@ -82,6 +82,8 @@ def load_generator(model_name):
         print(f'  Downloading checkpoint from `{url}` ...')
         subprocess.call(['wget', '--quiet', '-O', checkpoint_path, url])
         print(f'  Finish downloading checkpoint.')
+    print(f'  Finish downloading checkpoint.')
+    print(checkpoint_path)
     checkpoint = torch.load(checkpoint_path, map_location='cpu')
     if 'generator_smooth' in checkpoint:
         generator.load_state_dict(checkpoint['generator_smooth'])
